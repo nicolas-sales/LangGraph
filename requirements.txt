@@ -8,3 +8,8 @@ langchain-groq
 ipykernel
 
 python-dotenv
+
+arxiv 
+wikipedia
+
+feedparser
