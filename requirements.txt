@@ -11,5 +11,9 @@ python-dotenv
 
 arxiv 
 wikipedia
-
 feedparser
+
+# Debugger dans LangSmith Cloud
+langgraph-cli==0.4.28
+langgraph-api==0.10.0
+langgraph-runtime-inmem==0.30.0
